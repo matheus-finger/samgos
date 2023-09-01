@@ -1,0 +1,7 @@
+Título da Anotação: Testando
+Sequência: OVISEROSIMCOSEIRGJSOVMCIOEJGSOV
+Cor de Fundo (lightblue): OVISE
+Cor de Fundo (lightgreen): ROSIMCO
+Cor de Fundo (lightcoral): SEIR
+Cor de Fundo (lightgray): EJGSOV
+
